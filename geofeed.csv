@@ -1,4 +1,3 @@
-ip_prefix,alpha2code,region,city,
 148.222.224.0/24,CL,CL-RM,Santiago,
 148.222.225.0/24,CO,CO-DC,Bogota,
 148.222.225.0/25,CO,CO-DC,Bogota,
